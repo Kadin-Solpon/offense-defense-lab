@@ -3,6 +3,7 @@
 # offensive
 ./offensive/virtualEnv/pentest/host-information.txt
 ./offensive/virtualEnv/pentest/__pycache__
+./offensive/virtualEnv/pentest/network-information.txt
 /home/testUserKali/Desktop/OFFENSEDEFENSELAB/offensive/virtualEnv/pyvenv.cfg
 
 
