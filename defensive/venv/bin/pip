@@ -1,4 +1,4 @@
-#!/home/yttjr/Desktop/offenseDefenseLab/defensive/venv/bin/python3
+#!/home/yttjr/Desktop/offenseDefenseLab/offense-defense-lab/defensive/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
