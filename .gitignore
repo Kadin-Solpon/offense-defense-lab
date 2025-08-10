@@ -9,3 +9,4 @@
 
 #defensive
 ./defensive/venv
+./defensive/defend/webhookurl.txt
