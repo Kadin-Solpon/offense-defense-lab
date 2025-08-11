@@ -9,5 +9,5 @@
 
 #defensive
 ./defensive/venv
-./defensive/defend/webhookurl.txt
-./defensive/defend/__pycache__
+defensive/defend/webhookurl.txt
+defensive/defend/__pycache__
