@@ -1,6 +1,4 @@
 import re
-import time
-
 
 successfullRegex = re.compile(r"Accepted password for (.+) from (.+) port (\d+) ssh2")
 failedRegex = re.compile(r"Failed password for (.+) from (.+) port (\d+) ssh2")
